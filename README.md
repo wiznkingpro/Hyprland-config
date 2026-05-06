@@ -136,29 +136,9 @@ sudo pacman -S ttf-jetbrains-mono-nerd ttf-font-awesome noto-fonts-emoji
 └── README.md          # Этот файл
 ```
 
----
-
-## 🎯 Планы на будущее
-
-- [ ] Добавить скриншоты
-- [ ] Настроить автоматическую смену обоев
-- [ ] Добавить поддержку pywal для динамических цветов
-- [ ] Улучшить скрипты для Waybar
-
----
-
 ## 📄 Лицензия
 
 MIT © [wiznkingpro](https://github.com/wiznkingpro)
-
----
-
-## 🙏 Благодарности
-
-- [Hyprland](https://hyprland.org/) — за отличный WM
-- [Arch Linux](https://archlinux.org/) — за свободу выбора
-- [Waybar](https://github.com/Alexays/Waybar) — за гибкую панель
-- Всем, кто делится своими dotfiles — за вдохновение
 
 ---
 
@@ -166,6 +146,6 @@ MIT © [wiznkingpro](https://github.com/wiznkingpro)
   
 **⭐ Поставьте звезду, если вам понравился конфиг!**
 
-*Сделано с ❤️ для Arch Linux*
+I use arch, btw
 
 </div>
