@@ -154,17 +154,6 @@ sudo pacman -S ttf-jetbrains-mono-nerd ttf-font-awesome noto-fonts-emoji
 
 ---
 
-## 📝 Структура конфига
-
-```
-~/.config/hypr/
-├── hyprland.conf      # Основной конфиг
-├── hypridle.conf      # Настройки бездействия
-├── hyprlock.conf      # Экран блокировки
-├── devices.conf       # Настройки устройств
-└── README.md          # Этот файл
-```
-
 ## 📄 Лицензия
 
 MIT © [wiznkingpro](https://github.com/wiznkingpro)
