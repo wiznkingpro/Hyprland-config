@@ -4,8 +4,6 @@ markdown
   
 # 🚀 Hyprland Config
 
-### *"Глаза боятся, а руки делают — мои dotfiles"*
-
 [![Hyprland](https://img.shields.io/badge/Hyprland-0.46.0-8A2BE2?style=for-the-badge&logo=linux&logoColor=white)](https://hyprland.org/)
 [![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)](https://archlinux.org/)
 [![Waybar](https://img.shields.io/badge/Waybar-0.11.0-00BFFF?style=for-the-badge)](https://github.com/Alexays/Waybar)
@@ -13,23 +11,7 @@ markdown
 
 </div>
 
----
-
-## 📸 Скриншоты
-
-<div align="center">
-  
-*Здесь будут скриншоты вашего рабочего стола*
-
-`[Сделайте скриншот и добавьте его сюда]`
-
 </div>
-
----
-
-## 🎯 О конфиге
-
-Это моя личная конфигурация **Hyprland** на **Arch Linux**. Собиралась по кусочкам, переписывалась сотню раз и наконец обрела форму, в которой приятно работать каждый день.
 
 ### ✨ Особенности
 
@@ -63,8 +45,8 @@ markdown
 
 | Комбинация | Действие |
 |------------|----------|
-| <kbd>Win</kbd> + <kbd>Q</kbd> | Закрыть окно |
-| <kbd>Win</kbd> + <kbd>Enter</kbd> | Открыть терминал |
+| <kbd>Win</kbd> + <kbd>C</kbd> | Закрыть окно |
+| <kbd>Win</kbd> + <kbd>Q</kbd> | Открыть терминал |
 | <kbd>Win</kbd> + <kbd>R</kbd> | Запустить приложение (Rofi) |
 | <kbd>Win</kbd> + <kbd>L</kbd> | Заблокировать экран |
 | <kbd>Win</kbd> + <kbd>M</kbd> | Выйти из Hyprland |
